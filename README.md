@@ -2,7 +2,7 @@ A stock trading platform is an online or software-based system that allows inves
 
 Key features: 
 1)Market Access:
-
 Provides access to various financial markets (e.g., stock exchanges like the NYSE, NASDAQ, or international exchanges) where users can trade securities like stocks, options, and ETFs.
+
 2)Account Management:
 Users can manage their investment portfolios, view transaction history, and monitor their account balance
